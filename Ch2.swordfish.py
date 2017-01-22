@@ -1,4 +1,4 @@
-#Chapter 2 pg 51
+#Chapter 2 pg 51.
 while True:
         print('Who are you?')
         name=input()
